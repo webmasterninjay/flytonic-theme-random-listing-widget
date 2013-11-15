@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Flytonic Random Listing Widget
-Plugin URI: http://www.forexaffiliates.com/
+Plugin URI: http://webmasterninja.wordpress.com
 Description: Add widget to randomize affiliate program for Flytonic Theme. This plugin works only with Flytonic theme and not intended to use with other theme.
 Version: 1.5	
 Author: Jayson Antipuesto
-Author URI: http://www.forexaffiliates.com/
+Author URI: http://webmasterninja.wordpress.com
 */
 
 class RandomAffiliateWidget extends WP_Widget
