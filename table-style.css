@@ -1,0 +1,32 @@
+/**
+ * Enqueue WPRandom Plugin Styles *
+ * Adds plugin stylesheet * 
+ * @version     0.1
+ * @author      Jayson Antipuesto 
+
+ */
+
+.widget-aff-program {
+	width: 100%;
+	border-spacing: 0px;
+}
+.widget-aff-program .col3 {
+	width: 41%;
+	border-left: 1px solid #ccc;
+}
+.widget-aff-program .col1 {
+	width: 27%;
+}
+.widget-aff-program .col2 {
+	text-align: center;
+	border-left: 1px solid #ccc;
+}
+.widget-aff-program  .head {
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 5px;
+	text-align: center;
+}
+.widget-aff-program .row2 {
+	border-bottom: 1px solid #ccc;
+}
